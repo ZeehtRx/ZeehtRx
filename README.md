@@ -17,6 +17,10 @@
 ### My Stats
 ![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeehtRx&theme=midnight-purple&show_icons=true)
 
-<img src="https://raw.githubusercontent.com/ZeehtRx/ZeehtRx/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZeehtRx/ZeehtRx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZeehtRx/ZeehtRx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZeehtRx/ZeehtRx/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
