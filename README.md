@@ -12,4 +12,4 @@
 
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,flutter,dart,flask&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,flutter,dart,flask&perline=10)](https://skillicons.dev)
