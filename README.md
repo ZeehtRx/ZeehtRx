@@ -13,3 +13,6 @@
 ### My Skills
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,python,flutter,dart,flask&perline=10)
+
+### My Stats
+[![Theo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
