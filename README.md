@@ -18,3 +18,5 @@
 ![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeehtRx&theme=midnight-purple&show_icons=true)
 
 <img src="https://raw.githubusercontent.com/ZeehtRx/ZeehtRx/output/snake.svg" alt="Snake animation" />
+
+###
