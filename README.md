@@ -1,6 +1,8 @@
 ## Hi there 👋
 🔭 I’m currently working on Some To-do List apps for mobile
+
 🌱 I’m currently learning [**👑PHP**](https://www.php.net/) and [**✨Flutter**](https://flutter.dev/)
+
 📫 How to reach me: [📷Instagram](https://www.instagram.com/theoezekiel7/) [🖥Linkedin](https://www.linkedin.com/in/theodorus-ezekiel/)
 <!--
 **ZeehtRx/ZeehtRx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
