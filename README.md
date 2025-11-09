@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning [**👑PHP**](https://www.php.net/) and [**✨Flutter**](https://flutter.dev/)
 
-###📫 How to reach me: 
+### 📫 How to reach me: 
 ![https://www.instagram.com/theoezekiel7/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/theodorus-ezekiel/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### My Skills
