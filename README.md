@@ -15,4 +15,4 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,python,flutter,dart,flask&perline=10)
 
 ### My Stats
-![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeehtRx&theme=ocean_dark&show_icons=true)
+![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeehtRx&theme=midnight-purple&show_icons=true)
